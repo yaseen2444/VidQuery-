@@ -1,6 +1,6 @@
 # VidQuery
 
-![GitHub](https://img.shields.io/github/license/yaseenmd/vidquery)
+![GitHub](https://github.com/yaseen2444/VidQuery-.git)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
 VidQuery is an AI-powered question answering system that helps users extract and understand information from YouTube videos using their transcripts. With VidQuery, you can ask specific questions about video content and receive precise answers without having to watch the entire video.
